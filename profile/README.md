@@ -48,7 +48,7 @@
 
 #### Ai Avatar GANs
 
-<video src="./img/2023-11-02 19-45-17.mp4" controls></video>
+<video src="https://github.com/Mexasol/.github/blob/main/profile/img/2023-11-02%2019-45-17.mp4" controls></video>
 
 #### KIDWIZ Chatbot
 
