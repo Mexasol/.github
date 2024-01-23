@@ -42,15 +42,15 @@
 
 
 ## Projects
-#### American High School Academy (AHSA) Chatbot
+## American High School Academy (AHSA) Chatbot
 
 ![project](./img/160702.png)
 
-#### AI Avatar GANs
+## AI Avatar GANs
 
 ![Project](./img/screencapture-localhost-8501-2023-11-07-10_39_15.png)
 
-#### KIDWIZ Chatbot
+## KIDWIZ Chatbot
 
 ![project](./img/Chat.png)
 
