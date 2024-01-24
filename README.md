@@ -46,9 +46,9 @@
 
 ![project](./img/160702.png)
 
-#### Ai Avatar GANs
+#### AI Avatar GANs
 
-<video src="./img/2023-11-02 19-45-17.mp4" controls></video>
+![Project](./img/screencapture-localhost-8501-2023-11-07-10_39_15.png)
 
 #### KIDWIZ Chatbot
 

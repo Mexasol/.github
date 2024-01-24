@@ -46,9 +46,9 @@
 
 ![project](./img/160702.png)
 
-#### Ai Avatar GANs
+#### AI Avatar GANs
 
-<video src="https://github.com/Mexasol/.github/blob/main/profile/img/2023-11-02%2019-45-17.mp4" controls></video>
+![Project](./img/screencapture-localhost-8501-2023-11-07-10_39_15.png)
 
 #### KIDWIZ Chatbot
 
