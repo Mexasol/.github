@@ -54,7 +54,9 @@
 
 ![project](./img/Chat.png)
 
+#### Cowin AI Interview
 
+![project](./img/cowin.png)
 # Connect with Us
 
 Experience a new level of digital excellence. Join Mexasol and witness steady growth in your online business endeavors.
