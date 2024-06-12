@@ -73,7 +73,7 @@ Raiderly is a tool designed for finding best match investors and influencers for
 
 ![project](./img/raiderly.png)
 
-![project](./img/cybersecurity policies chatbot.png)
+![project](./img/cybersecuritypolicieschatbot.png)
 # Connect with Us
 
 Experience a new level of digital excellence. Join Mexasol and witness steady growth in your online business endeavors.
