@@ -72,6 +72,8 @@ With the advancement in the AI, cowin has utilized the best use case of speech r
 Raiderly is a tool designed for finding best match investors and influencers for you startup. We leverage the art of prompt engineering and with the help of social engineering, we designed a tool to create a personalized email
 
 ![project](./img/raiderly.png)
+
+![project](./img/cybersecurity policies chatbot.png)
 # Connect with Us
 
 Experience a new level of digital excellence. Join Mexasol and witness steady growth in your online business endeavors.
