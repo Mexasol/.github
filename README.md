@@ -73,6 +73,10 @@ Raiderly is a tool designed for finding best match investors and influencers for
 
 ![project](./img/raiderly.png)
 
+### Cyber security Policy in house Chatbot
+
+A private chatbot for in house employees, where with the help of chatbot they can query the policies when they need to gather information on the policies. Leveraging AI in the chatbot with the help of chatbot, it can provide answers in different format
+
 ![project](./img/cybersecuritypolicieschatbot.png)
 # Connect with Us
 
