@@ -42,24 +42,35 @@
 
 
 ## Projects
-#### American High School Academy (AHSA) Chatbot
+#### American High School Academy (AHSA) Chatbot ( yourstuddybuddy.com)
+
+A replica of khanmigo, AI tutor helps children in their home work from history to mathematics and so does other. Leveraging RAG in artificial intelligence that can query from your knowledge base, helping kids in their summer camp
 
 ![project](./img/160702.png)
 
 #### AI Avatar GANs
 
+
+
 ![Project](./img/screencapture-localhost-8501-2023-11-07-10_39_15.png)
 
 #### KIDWIZ Chatbot
+
+Kidwiz is a platform helping kids to learn subjects having difficulty in their schooling and home schooling. Chatbot helps them to bring ease with 1 on 1 interactions to help understand the weakness in their ability to learn for their parents.
+Also, it helps parents to understand their personality trait in this way to help cope with the children ability to learn .
 
 ![project](./img/Chat.png)
 
 #### Cowin AI Interview
 
+With the advancement in the AI, cowin has utilized the best use case of speech recognition where interviee can answer interviewer query with the help of Grok and deep gram
+
 ![project](./img/cowin.png)
 
 #### Raiderly 
-Raiderly is a tool designed for finding best match investors and influencers for you startup. We leverage the art of prompt engineering and with the help of social engineering, we designed a tool to create a personalized email.
+
+Raiderly is a tool designed for finding best match investors and influencers for you startup. We leverage the art of prompt engineering and with the help of social engineering, we designed a tool to create a personalized email
+
 ![project](./img/raiderly.png)
 # Connect with Us
 
