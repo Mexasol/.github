@@ -50,7 +50,7 @@ A replica of khanmigo, AI tutor helps children in their home work from history t
 
 #### AI Avatar GANs
 
-
+Utilizing Generative ai, where the avatar can answer like a tutor and students can respond with using speech to text technology.
 
 ![Project](./img/screencapture-localhost-8501-2023-11-07-10_39_15.png)
 
